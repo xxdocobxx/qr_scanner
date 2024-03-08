@@ -10,6 +10,8 @@
 .svn/
 migrate_working_dir/
 *.code-workspace
+/assets/
+/android/key.properties
 
 # IntelliJ related
 *.iml

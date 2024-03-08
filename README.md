@@ -1,3 +1,3 @@
-# qr_scanner
+# QR Scanner
 
-A new Flutter project.
+A QR code scanning app developed for Android with Flutter.
