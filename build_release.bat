@@ -1,0 +1,1 @@
+cmd /k "switch_release & flutter build appbundle & switch_debug"

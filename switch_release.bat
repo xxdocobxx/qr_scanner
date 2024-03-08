@@ -1,0 +1,1 @@
+copy android\app\build.gradle.release android\app\build.gradle

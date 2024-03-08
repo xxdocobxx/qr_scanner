@@ -1,0 +1,1 @@
+cmd /k "switch_release & flutter build appbundle --release --target-platform=android-arm64 & switch_debug"
